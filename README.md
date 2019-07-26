@@ -1,6 +1,6 @@
 # Tetris-Game 
 # How To Play? 
-Download the game.
+Download the game. <br/>
 Run "Tetris.java" file.
 # Instructions
 'A'  or 'a' to move left <br/> 
